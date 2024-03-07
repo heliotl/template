@@ -3,7 +3,7 @@
 title: Helio Tejeda
 
 # Name pronunciation (optional)
-name_pronunciation: El - ee - oh
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Heliodoro
