@@ -65,8 +65,7 @@ skills:
     items:
       - name: HTML
         description: ''
-        icon: html5
-        icon_pack: devicon
+        icon: devicon/html5
       - name: CSS
         description: ''
         icon: css3
