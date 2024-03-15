@@ -65,7 +65,7 @@ skills:
     items:
       - name: HTML
         description: ''
-        icon: devicon/html5
+        icon: brands/html5
       - name: CSS
         description: ''
         icon: academicons/doi
