@@ -44,7 +44,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming
     items:
       - name: Python
         description: ''
@@ -61,6 +61,16 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
+  - name: Web Development
+    items:
+      - name: HTML
+        description: ''
+        icon: html5
+        icon_pack: devicon
+      - name: CSS
+        description: ''
+        icon: css3
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
