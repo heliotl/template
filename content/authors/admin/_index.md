@@ -68,8 +68,7 @@ skills:
         icon: devicon/html5
       - name: CSS
         description: ''
-        icon: css3
-        icon_pack: devicon
+        icon: academicons/doi
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
