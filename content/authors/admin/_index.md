@@ -73,7 +73,7 @@ skills:
         icon_pack: academicons
       - name: JS
         description: ''
-        icon: github
+        icon: brands/github
         icon_pack: brands
   - name: Hobbies
     color: '#eeac02'
