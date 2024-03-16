@@ -65,10 +65,12 @@ skills:
     items:
       - name: HTML
         description: ''
-        icon: hero/sparkles
+        icon: sparkles
+        icon_pack: hero
       - name: CSS
         description: ''
-        icon: academicons/doi
+        icon: doi
+        icon_pack: academicons
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
