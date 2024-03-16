@@ -67,13 +67,18 @@ skills:
         description: ''
         icon: sparkles
         icon_pack: hero
+      - name: HTML
+        description: ''
+        icon: html5
+        icon_pack: brands
       - name: CSS
         description: ''
         icon: doi
         icon_pack: academicons
       - name: JS
         description: ''
-        icon: brands/github
+        icon: github
+        icon_pack: brands
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
