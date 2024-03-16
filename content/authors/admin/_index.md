@@ -74,7 +74,6 @@ skills:
       - name: JS
         description: ''
         icon: brands/github
-        icon_pack: brands
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
