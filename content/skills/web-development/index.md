@@ -1,6 +1,6 @@
 ---
 title: Web Development
-summary: An example of using the in-built project page.
+summary: Classic Markdown *writting* here to see what **happens** | test | out | a | table |
 tags:
   - Web Development
 date: ''
