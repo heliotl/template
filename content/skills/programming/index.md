@@ -4,23 +4,19 @@ summary: >-
     <table>
         <tr>
             <td style="width: 25%; vertical-align: middle">
-                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/HTML5_logo_and_wordmark.svg-6d3cf868daeb2229.png" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
             </td>
             <td style="width: 25%; vertical-align: middle">
-                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/CSS3_logo_and_wordmark-666e8136754566ea.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
             </td>
             <td style="width: 25%; vertical-align: middle">
-                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/JavaScript-logo-1d5d9d7c1f252119.png" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
             </td>
             <td style="width: 25%; vertical-align: middle">
-                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/new-php-logo-e892f0252f0951d1.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
             </td>
         </tr>
     </table>
-    Classic Markdown *writting* here to see what **happens**
-    | test | out | a | table |
-    |------|-----|---|-------|
-    Testing to see what happens here
 tags:
   - Programming
   - Python
