@@ -23,8 +23,8 @@ tags:
   - Data Analysis
   - NumPy
   - Pandas
-date: ''
-order: 3
+date: '3'
+#order: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

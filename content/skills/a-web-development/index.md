@@ -34,8 +34,8 @@ summary: >-
     </table>
 tags:
   - Web Development
-date: ''
-order: 1
+date: '1'
+#order: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

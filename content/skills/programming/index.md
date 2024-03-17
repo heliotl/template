@@ -34,8 +34,8 @@ tags:
   - C++
   - Java
   - MATLAB
-date: ''
-order: 2
+date: '2'
+#order: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
