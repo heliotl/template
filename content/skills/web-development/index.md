@@ -3,7 +3,18 @@ title: Web Development
 summary: >-
     <table>
         <tr>
-            <td>A</td><td>B</td><td>C</td><td>D</td>
+            <td>
+                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/HTML5_logo_and_wordmark.svg-6d3cf868daeb2229.png"
+            </td>
+            <td>
+                B
+            </td>
+            <td>
+                C
+            </td>
+            <td>
+                D
+            </td>
         </tr>
     </table>
     Classic Markdown *writting* here to see what **happens**
