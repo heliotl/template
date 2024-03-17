@@ -1,7 +1,6 @@
 ---
 title: Web Development
-summary: Classic Markdown *writting* here to see what **happens** | test | out | a | table |
-```
+summary: Classic Markdown *writting* here to see what **happens** | test | out | a | table | ```
 Testing to see what happens here
 ```
 tags:
