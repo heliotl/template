@@ -28,9 +28,9 @@ date: ''
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-#image: web-development.jpg
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+  caption: Image by vectorjuice on Freepik
+  focal_point: Smart
 
 #links:
 #  - icon: twitter
