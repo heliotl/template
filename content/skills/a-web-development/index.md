@@ -35,6 +35,7 @@ summary: >-
 tags:
   - Web Development
 date: ''
+order: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

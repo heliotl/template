@@ -35,6 +35,7 @@ tags:
   - Java
   - MATLAB
 date: ''
+order: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
