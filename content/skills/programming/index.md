@@ -28,6 +28,14 @@ summary: >-
             </td>
         </tr>
     </table>
+skills:
+  - name: Programming
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
 tags:
   - Programming
   - Python
