@@ -1,6 +1,11 @@
 ---
 title: Web Development
 summary: >-
+    <table>
+        <tr>
+            <td>A</td><td>B</td><td>C</td><td>D</td>
+        </tr>
+    </table>
     Classic Markdown *writting* here to see what **happens**
     | test | out | a | table |
     |------|-----|---|-------|
