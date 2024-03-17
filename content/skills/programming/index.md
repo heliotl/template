@@ -28,14 +28,17 @@ summary: >-
             </td>
         </tr>
     </table>
-skills:
-  - name: Programming
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+    <div class="col-12 col-md-6">
+        <div class="skills-content">
+            <span class="skills-name">
+                Python
+            </span>
+            <div class="skills-wrapper">
+                <div class="skills-percent" style="width: 80%">
+                </div>
+            </div>
+        </div>
+    </div>
 tags:
   - Programming
   - Python
