@@ -4,7 +4,7 @@ summary: >-
     <table>
         <tr>
             <td>
-                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/HTML5_logo_and_wordmark.svg-6d3cf868daeb2229.png"
+                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/HTML5_logo_and_wordmark.svg-6d3cf868daeb2229.png" />
             </td>
             <td>
                 B
