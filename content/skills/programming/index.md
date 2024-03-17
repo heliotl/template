@@ -28,7 +28,7 @@ summary: >-
             </td>
         </tr>
     </table>
-    <div class="col-12 col-md-6">
+    <!--<div class="col-12">
         <div class="skills-content">
             <span class="skills-name">
                 Python
@@ -38,7 +38,7 @@ summary: >-
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
 tags:
   - Programming
   - Python
