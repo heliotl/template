@@ -202,6 +202,8 @@ sections:
           tag: Programming
         - name: Web Development
           tag: Web Development
+        - name: Data Analysis
+          tag: Data Analysis
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
