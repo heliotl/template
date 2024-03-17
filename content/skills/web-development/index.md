@@ -7,13 +7,13 @@ summary: >-
                 <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/HTML5_logo_and_wordmark.svg-6d3cf868daeb2229.png" />
             </td>
             <td>
-                B
+                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/CSS3_logo_and_wordmark-666e8136754566ea.svg" />
             </td>
             <td>
-                C
+                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/JavaScript-logo-1d5d9d7c1f252119.png" />
             </td>
             <td>
-                D
+                <img src="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/5/5512/files/2024/03/new-php-logo-e892f0252f0951d1.svg" />
             </td>
         </tr>
     </table>
