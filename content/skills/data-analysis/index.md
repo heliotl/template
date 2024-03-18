@@ -25,6 +25,7 @@ tags:
   - Pandas
   - RStudio
 date: ''
+show_date: false
 #order: 3
 
 # Optional external URL for project (replaces project detail page).

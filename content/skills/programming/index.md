@@ -23,7 +23,8 @@ tags:
   - C++
   - Java
   - MATLAB
-date: '2'
+date: ''
+show_date: false
 #order: 2
 
 # Optional external URL for project (replaces project detail page).
