@@ -60,7 +60,7 @@ url_video: ''
 -->
 <div class="row">
     <div class="col-2" style="display: grid; align-items: center">
-        <img src="/template/media/logos/matplotlib-logo.svg" style="width: 50%; height: 50%" />
+        <img src="/template/media/logos/matplotlib-logo.svg" style="width: 100%; height: 100%; margin-top: 0.5rem; margin-bottom: 0.5rem" />
     </div>
     <div class="col-10" style="display: grid; align-items: center">
         <div class="skills-content">
