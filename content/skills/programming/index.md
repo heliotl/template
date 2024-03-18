@@ -63,8 +63,8 @@ url_video: ''
             <span class="skills-name">
                 Python
             </span>
-            <div class="skills-wrapper">
-                <div class="skills-percent" style="width: 90%">
+            <div class="skills-wrapper" style="height: 1rem">
+                <div class="skills-percent" style="width: 90%; height: 100%">
                 </div>
             </div>
         </div>
