@@ -56,8 +56,41 @@ url_video: ''
 #slides: example
 ---
 <!--
-    Matplotlib
+    Matplotlib & Seaborn
 -->
+<div class="row">
+    <div class="col-2" style="display: grid; align-items: center">
+        <img src="/template/media/logos/matplotlib-logo.svg" style="width: 100%; height: 100%; margin-top: 0.5rem; margin-bottom: 0.5rem" />
+    </div>
+    <div class="col-4" style="display: grid; align-items: center">
+        <div class="skills-content">
+            <span class="skills-name">
+                Matplotlib
+            </span>
+            <div class="skills-wrapper" style="height: 1rem">
+                <div class="skills-percent" style="width: 85%; height: 100%">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-2" style="display: grid; align-items: center">
+        <img src="/template/media/logos/seaborn-logo.svg" style="width: 100%; height: 100%; margin-top: 0.5rem; margin-bottom: 0.5rem" />
+    </div>
+    <div class="col-4" style="display: grid; align-items: center">
+        <div class="skills-content">
+            <span class="skills-name">
+                Seaborn
+            </span>
+            <div class="skills-wrapper" style="height: 1rem">
+                <div class="skills-percent" style="width: 85%; height: 100%">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--
+    Matplotlib
+-- >
 <div class="row">
     <div class="col-2" style="display: grid; align-items: center">
         <img src="/template/media/logos/matplotlib-logo.svg" style="width: 100%; height: 100%; margin-top: 0.5rem; margin-bottom: 0.5rem" />
@@ -76,7 +109,7 @@ url_video: ''
 </div>
 <!--
     Seaborn
--->
+-- >
 <div class="row">
     <div class="col-2" style="display: grid; align-items: center">
         <img src="/template/media/logos/seaborn-logo.svg" style="width: 100%; height: 100%" />
