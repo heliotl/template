@@ -60,20 +60,15 @@ url_video: ''
 -->
 <div class="row">
     <div class="col-2" style="display: grid; align-items: center">
-        <img src="/template/media/logos/matplotlib-logo.svg" style="width: 100%; height: 100%" />
+        <img src="/template/media/logos/matplotlib-logo.svg" style="width: 50%; height: 50%" />
     </div>
     <div class="col-10" style="display: grid; align-items: center">
         <div class="skills-content">
-            <span class="skills-icon">
-                <img src="/template/media/logos/matplotlib-logo.svg" style="width: 100%; height: 100%">
-                    ::before
-                </img>
-            </span>
             <span class="skills-name">
                 Matplotlib
             </span>
-            <div class="skills-wrapper">
-                <div class="skills-percent" style="width: 85%">
+            <div class="skills-wrapper" style="height: 1rem">
+                <div class="skills-percent" style="width: 85%; height: 100%">
                 </div>
             </div>
         </div>
