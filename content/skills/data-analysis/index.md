@@ -51,7 +51,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-<--
+<!--
     NumPy
 -->
 <div class="row">
