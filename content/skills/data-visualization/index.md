@@ -28,6 +28,7 @@ tags:
   - D3.js
   - Highcharts
 date: ''
+show_date: false
 #order: 3
 
 # Optional external URL for project (replaces project detail page).
