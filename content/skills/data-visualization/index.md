@@ -65,7 +65,9 @@ url_video: ''
     <div class="col-10" style="display: grid; align-items: center">
         <div class="skills-content">
             <span class="skills-icon">
-                <img src="/template/media/logos/matplotlib-logo.svg" style="width: 100%; height: 100%" />
+                <img src="/template/media/logos/matplotlib-logo.svg" style="width: 100%; height: 100%">
+                    ::before
+                </img>
             </span>
             <span class="skills-name">
                 Matplotlib
